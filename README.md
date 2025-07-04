@@ -106,4 +106,4 @@
 - **[@nhrrob](https://www.youtube.com/@nhrrob)**: 153 ‧ Nazmul Hasan Robin ‧ Developer at WPDeveloper
 - **[@harrisrafto](https://www.youtube.com/@harrisrafto)**: 146 ‧ Harris Raftopoulos ‧ Senior Software Engineer & Laravel News Staff Writer
 - **[@nexxai_dev](https://www.youtube.com/@nexxai_dev)**: 85 ‧ JT Smith ‧ Laravel Developer
-- **[@CodeWithSushil](https://www.youtube.com/@code-with-sushil)**: 79 • Sushil Kumar • self-taught developer 
+- **[@CodeWithSushil](https://www.youtube.com/@code-with-sushil)**: 79 • Sushil Kumar • Independent PHP Developer (🇮🇳India/Hindi)
